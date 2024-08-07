@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # lms
 Learning Management System
 =======
@@ -69,3 +70,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 >>>>>>> b09b026 (07-08-2024 first commit)
+=======
+# plms
+Learning Management System
+>>>>>>> 46661ad3da42fd95ff975bf3e8bad724cccdb489
