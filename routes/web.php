@@ -33,9 +33,9 @@ use Illuminate\Support\Facades\Artisan;
 |
 */
 
- Route::get('/', function () {
-   return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
 Route::get('/', [UserController::class, 'Index'])->name('index');
 
